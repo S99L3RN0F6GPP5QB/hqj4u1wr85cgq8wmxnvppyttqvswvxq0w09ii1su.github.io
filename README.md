@@ -1,2 +1,2 @@
-# Pointer Ingls
+# Pointer Inglês
 https://pointeringles.com/
